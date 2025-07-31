@@ -6,7 +6,7 @@ setlocal
 set PROJECT_PATH=C:\Users\DREAD\Desktop\NEAProject\Gyroskate
 
 :: Change to your GitHub repo URL (HTTPS or SSH)
-set REPO_URL=https://github.com/psyalysis/NEAProject
+set REPO_URL=https://github.com/psyalysis/GyroskateGame.git
 
 :: ======== SCRIPT LOGIC ===========
 echo.
